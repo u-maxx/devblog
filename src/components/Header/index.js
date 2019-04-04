@@ -23,7 +23,7 @@ function Header({ config }) {
         <P>{detailed_description}</P>
         {social &&
           <Social
-            magentou={social.website}
+            magentou={social.magentou}
             commercehero={social.commercehero}
             website={social.website}
             github={social.github}
