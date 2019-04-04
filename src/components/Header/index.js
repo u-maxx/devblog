@@ -20,20 +20,20 @@ function Header({ config }) {
         )}
         <H1><Link to="/">{author}</Link></H1>
         <P>{description}</P>
-        <P>{detailed_description}</P>
-        {social &&
+          {social &&
           <Social
-            magentou={social.magentou}
-            commercehero={social.commercehero}
-            website={social.website}
-            github={social.github}
-            dockerhub={social.dockerhub}
-            twitter={social.twitter}
-            linkedin={social.linkedin}
-            email={social.email}
+              magentou={social.magentou}
+              commercehero={social.commercehero}
+              website={social.website}
+              github={social.github}
+              dockerhub={social.dockerhub}
+              twitter={social.twitter}
+              linkedin={social.linkedin}
+              email={social.email}
           />
-        }
-        <h2>{recommends_label}</h2>
+          }
+        <P>{detailed_description}</P>
+        <P>{recommends_label}</P>
       </Wrapper>
     </Container> 
   );
