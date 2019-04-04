@@ -10,7 +10,7 @@ module.exports = {
     website: 'https://commercehero.io/u_maxx',
     github: 'https://github.com/u-maxx',
     twitter: 'https://twitter.com/u_maxx',
-    linkedin: 'https://www.linkedin.com/in/maxim-uroda-236265a1/',
+    linkedin: 'https://www.linkedin.com/in/max-uroda/',
   },
   pathPrefix: '/devblog',
   siteUrl: 'http://maxuroda.pro',
