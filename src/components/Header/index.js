@@ -10,7 +10,7 @@ import Link from './Link';
 import Wrapper from './Wrapper';
 
 function Header({ config }) {
-  const { author, description, detailed_description, social } = config;
+  const { author, description, detailed_description, recommends_label, social } = config;
 
   return (
     <Container>
@@ -33,6 +33,7 @@ function Header({ config }) {
             email={social.email}
           />
         }
+        <h2>{recommends_label}</h2>
       </Wrapper>
     </Container> 
   );
