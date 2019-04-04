@@ -10,7 +10,7 @@ import Link from './Link';
 import Wrapper from './Wrapper';
 
 function Header({ config }) {
-  const { author, description, social } = config;
+  const { author, description, detailed_description, social } = config;
 
   return (
     <Container>
@@ -20,10 +20,14 @@ function Header({ config }) {
         )}
         <H1><Link to="/">{author}</Link></H1>
         <P>{description}</P>
+        <P>{detailed_description}</P>
         {social &&
           <Social
+            magentou={social.website}
+            commercehero={social.commercehero}
             website={social.website}
             github={social.github}
+            dockerhub={social.dockerhub}
             twitter={social.twitter}
             linkedin={social.linkedin}
           />
