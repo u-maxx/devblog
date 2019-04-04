@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Max Uroda Certified Magento Developer', // Required
   author: 'Max Uroda', // Required
-  description: 'Personal website. I am Certified Magento Developer, Software Engineer, Independent Consultant, working with Magento, Magento 2, PHP, MySQL, JS, jQuery, HTML, CSS, Redis, Varnish, Elasticsearch, AWS, New Relic, Docker, Docker-compose, PWA',
+  description: 'I am Certified Magento Developer (MCD+) with 7 years of experience in Web Development, Software Engineer, Independent Contractor, Master of Computer Science. Usually I work on complex e-commerce projects based on Magento, Magento 2 (PHP, MySQL, JS, jQuery, HTML, CSS, Redis, Varnish, Elasticsearch, AWS, New Relic, Docker, Docker-compose, PWA). Please see my LinkedIng page to find more info and recommendations from my colleagues and customers.',
   primaryColor: '#f46f25', // Required
   showHeaderImage: true,
   showShareButtons: true,
