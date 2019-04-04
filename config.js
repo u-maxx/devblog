@@ -5,7 +5,7 @@ module.exports = {
   primaryColor: '#f46f25', // Required
   showHeaderImage: true,
   showShareButtons: true,
-  postsPerPage: 0, // Required
+  postsPerPage: 1, // Required
   social: {
     website: 'https://commercehero.io/u_maxx',
     github: 'https://github.com/u-maxx',
