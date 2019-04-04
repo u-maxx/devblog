@@ -1,17 +1,17 @@
 module.exports = {
-  title: 'Dev Blog', // Required
-  author: 'Ryan Fitzgerald', // Required
-  description: 'Full-stack Web Developer',
-  primaryColor: '#3498db', // Required
+  title: 'Max Uroda Certified Magento Developer', // Required
+  author: 'Max Uroda', // Required
+  description: 'Personal website. I am Certified Magento Developer, Software Engineer, Independent Consultant, working with Magento, Magento 2, PHP, MySQL, JS, jQuery, HTML, CSS, Redis, Varnish, Elasticsearch, AWS, New Relic, Docker, Docker-compose, PWA',
+  primaryColor: '#f46f25', // Required
   showHeaderImage: true,
   showShareButtons: true,
-  postsPerPage: 5, // Required
+  postsPerPage: 0, // Required
   social: {
-    website: 'https://ryanfitzgerald.ca',
-    github: 'https://github.com/ryanfitzgerald',
-    twitter: 'https://twitter.com/ryanafitzgerald',
-    linkedin: 'https://ca.linkedin.com/in/ryanafitzgerald',
+    website: 'https://commercehero.io/u_maxx',
+    github: 'https://github.com/u-maxx',
+    twitter: 'https://twitter.com/u_maxx',
+    linkedin: 'https://www.linkedin.com/in/maxim-uroda-236265a1/',
   },
   pathPrefix: '/devblog',
-  siteUrl: 'https://ryanfitzgerald.github.io/devblog/',
+  siteUrl: 'http://maxuroda.pro',
 };
