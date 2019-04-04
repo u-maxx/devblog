@@ -15,6 +15,7 @@ module.exports = {
     dockerhub: 'https://hub.docker.com/u/umaxx',
     twitter: 'https://twitter.com/u_maxx',
     linkedin: 'https://www.linkedin.com/in/max-uroda/',
+    email: 'mailto:uroda.m.v@gmail.com',
   },
   pathPrefix: '/devblog',
   siteUrl: 'http://maxuroda.pro',

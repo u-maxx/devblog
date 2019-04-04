@@ -30,6 +30,7 @@ function Header({ config }) {
             dockerhub={social.dockerhub}
             twitter={social.twitter}
             linkedin={social.linkedin}
+            email={social.email}
           />
         }
       </Wrapper>
