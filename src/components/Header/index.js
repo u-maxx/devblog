@@ -30,6 +30,7 @@ function Header({ config }) {
               twitter={social.twitter}
               linkedin={social.linkedin}
               email={social.email}
+              skype={social.skype}
           />
           }
         <P>{detailed_description}</P>

@@ -17,6 +17,7 @@ module.exports = {
     twitter: 'https://twitter.com/u_maxx',
     linkedin: 'https://www.linkedin.com/in/max-uroda/',
     email: 'mailto:uroda.m.v@gmail.com',
+    skype: 'https://join.skype.com/invite/obgKpBOEJZed',
   },
   pathPrefix: '/devblog',
   siteUrl: 'http://maxuroda.pro',

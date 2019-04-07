@@ -3,7 +3,7 @@ import React from 'react';
 import Wrapper from './Wrapper';
 import SocialLink from './SocialLink';
 
-function Social({ magentou, commercehero, website, twitter, github, dockerhub, linkedin, email }) {
+function Social({ magentou, commercehero, website, twitter, github, dockerhub, linkedin, email, skype }) {
   return (
     <Wrapper>
       {magentou && (
@@ -97,6 +97,16 @@ function Social({ magentou, commercehero, website, twitter, github, dockerhub, l
               <polyline points="22,6 12,13 2,6"></polyline>
             </svg>
             Email
+          </SocialLink>
+      )}
+      {skype && (
+          <SocialLink href={skype} target="_blank" rel="noopener">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                 stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+                 className="feather feather-message-square">
+              <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path>
+            </svg>
+            Skype
           </SocialLink>
       )}
     </Wrapper>
