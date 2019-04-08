@@ -10,7 +10,7 @@ import Link from './Link';
 import Wrapper from './Wrapper';
 
 function Header({ config }) {
-  const { author, description, detailed_description, recommends_label, social } = config;
+  const { author, description, detailed_description, social } = config;
 
   return (
     <Container>
@@ -34,7 +34,6 @@ function Header({ config }) {
           />
           }
         <P>{detailed_description}</P>
-        <P>{recommends_label}</P>
       </Wrapper>
     </Container> 
   );
