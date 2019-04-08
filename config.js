@@ -9,14 +9,15 @@ module.exports = {
   postsPerPage: 1, // Required
   social: {
     magentou: 'https://u.magento.com/certificіation/directory/dev/838286/',
-    commercehero: 'https://commercehero.io/u_maxx',
-    website: 'https://maxuroda.pro',
-    github: 'https://github.com/u-maxx',
-    dockerhub: 'https://hub.docker.com/u/umaxx',
-    twitter: 'https://twitter.com/u_maxx',
     linkedin: 'https://www.linkedin.com/in/max-uroda/',
     email: 'mailto:contact@maxuroda.pro',
     skype: 'https://join.skype.com/invite/obgKpBOEJZed',
+    calendy: "https://calendly.com/max-uroda",
+    commercehero: 'https://commercehero.io/u_maxx',
+    github: 'https://github.com/u-maxx',
+    dockerhub: 'https://hub.docker.com/u/umaxx',
+    twitter: 'https://twitter.com/u_maxx',
+    pagespeed: "https://developers.google.com/speed/pagespeed/insights/?url=maxuroda.pro"
   },
   pathPrefix: '/devblog',
   siteUrl: 'http://maxuroda.pro',

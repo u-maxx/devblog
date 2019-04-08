@@ -3,7 +3,7 @@ import React from 'react';
 import Wrapper from './Wrapper';
 import SocialLink from './SocialLink';
 
-function Social({ magentou, commercehero, website, twitter, github, dockerhub, linkedin, email, skype }) {
+function Social({ magentou, linkedin, email, skype, calendy, commercehero, twitter, github, dockerhub, pagespeed }) {
   return (
     <Wrapper>
       {magentou && (
@@ -15,6 +15,52 @@ function Social({ magentou, commercehero, website, twitter, github, dockerhub, l
               <polyline points="8.21 13.89 7 23 12 20 17 23 15.79 13.88"></polyline>
             </svg>
             Certifications (Magento U)
+          </SocialLink>
+      )}
+      {linkedin && (
+          <SocialLink href={linkedin} target="_blank" rel="noopener">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                 stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+                 className="feather feather-linkedin">
+              <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path>
+              <rect x="2" y="9" width="4" height="12"></rect>
+              <circle cx="4" cy="4" r="2"></circle>
+            </svg>
+            LinkedIn
+          </SocialLink>
+      )}
+      {email && (
+          <SocialLink href={email} target="_blank" rel="noopener">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                 stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+                 className="feather feather-mail">
+              <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path>
+              <polyline points="22,6 12,13 2,6"></polyline>
+            </svg>
+            Email
+          </SocialLink>
+      )}
+      {skype && (
+          <SocialLink href={skype} target="_blank" rel="noopener">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                 stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+                 className="feather feather-message-square">
+              <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path>
+            </svg>
+            Skype
+          </SocialLink>
+      )}
+      {calendy && (
+          <SocialLink href={calendy} target="_blank" rel="noopener">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                 stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+                 className="feather feather-calendar">
+              <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
+              <line x1="16" y1="2" x2="16" y2="6"></line>
+              <line x1="8" y1="2" x2="8" y2="6"></line>
+              <line x1="3" y1="10" x2="21" y2="10"></line>
+            </svg>
+            Schedule a meeting
           </SocialLink>
       )}
       {commercehero && (
@@ -29,17 +75,6 @@ function Social({ magentou, commercehero, website, twitter, github, dockerhub, l
             </svg>
             Commerce Hero
           </SocialLink>
-      )}
-      {website && (
-        <SocialLink href={website} target="_blank" rel="noopener">
-          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
-               stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
-               className="feather feather-home">
-            <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path>
-            <polyline points="9 22 9 12 15 12 15 22"></polyline>
-          </svg>
-          Website
-        </SocialLink>
       )}
       {twitter && (
         <SocialLink href={twitter} target="_blank" rel="noopener">
@@ -76,37 +111,15 @@ function Social({ magentou, commercehero, website, twitter, github, dockerhub, l
             Docker Hub
           </SocialLink>
       )}
-      {linkedin && (
-        <SocialLink href={linkedin} target="_blank" rel="noopener">
-          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
-               stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
-               className="feather feather-linkedin">
-            <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path>
-            <rect x="2" y="9" width="4" height="12"></rect>
-            <circle cx="4" cy="4" r="2"></circle>
-          </svg>
-          LinkedIn
-        </SocialLink>
-      )}
-      {email && (
-          <SocialLink href={email} target="_blank" rel="noopener">
+      {pagespeed && (
+          <SocialLink href={pagespeed} target="_blank" rel="noopener">
             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
                  stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
-                 className="feather feather-mail">
-              <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path>
-              <polyline points="22,6 12,13 2,6"></polyline>
+                 className="feather feather-trending-up">
+              <polyline points="23 6 13.5 15.5 8.5 10.5 1 18"></polyline>
+              <polyline points="17 6 23 6 23 12"></polyline>
             </svg>
-            Email
-          </SocialLink>
-      )}
-      {skype && (
-          <SocialLink href={skype} target="_blank" rel="noopener">
-            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
-                 stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
-                 className="feather feather-message-square">
-              <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path>
-            </svg>
-            Skype
+            PageSpeed Insights
           </SocialLink>
       )}
     </Wrapper>
