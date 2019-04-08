@@ -17,7 +17,7 @@ module.exports = {
     github: 'https://github.com/u-maxx',
     dockerhub: 'https://hub.docker.com/u/umaxx',
     twitter: 'https://twitter.com/u_maxx',
-    pagespeed: "https://developers.google.com/speed/pagespeed/insights/?url=maxuroda.pro"
+    pagespeed: "https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fmaxuroda.pro%2F"
   },
   pathPrefix: '/devblog',
   siteUrl: 'http://maxuroda.pro',
