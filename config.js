@@ -2,8 +2,7 @@ module.exports = {
   title: 'Max Uroda Certified Magento Developer', // Required
   author: 'Max Uroda', // Required
   description: 'I am Certified Magento Developer (MCD+) with 7 years of experience in Web Development, Software Engineer, Independent Contractor. I have Master\'s degree in Computer Science.',
-  detailed_description: 'Usually I work on complex e-commerce projects based on Magento, Magento 2 (PHP, MySQL, JS, jQuery, GatsbyJs, HTML, CSS, Redis, Varnish, Elasticsearch, AWS, New Relic, Docker, PWA).',
-  recommends_label: 'You can find the recommendations from my clients and colleagues below:',
+  detailed_description: 'Usually I work on complex e-commerce projects based on Magento, Magento 2 (PHP, MySQL, JS, jQuery, GatsbyJs, HTML, CSS, GIT, Redis, Varnish, Elasticsearch, AWS, New Relic, Docker, PWA).',
   primaryColor: '#f46f25', // Required
   showHeaderImage: true,
   showShareButtons: true,
@@ -16,7 +15,7 @@ module.exports = {
     dockerhub: 'https://hub.docker.com/u/umaxx',
     twitter: 'https://twitter.com/u_maxx',
     linkedin: 'https://www.linkedin.com/in/max-uroda/',
-    email: 'mailto:uroda.m.v@gmail.com',
+    email: 'mailto:contact@maxuroda.pro',
     skype: 'https://join.skype.com/invite/obgKpBOEJZed',
   },
   pathPrefix: '/devblog',
