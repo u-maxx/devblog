@@ -5,7 +5,7 @@ const H2 = styled.h2`
   font-size: 22px;
   font-weight: 700;
   line-height: 1.5;
-  margin: 25px 50px 15px;
+  margin: 25px 40px 15px;
 `;
 
 export default H2;

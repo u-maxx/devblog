@@ -56,14 +56,14 @@ const Article = styled.article`
 
   p {
     line-height: 1.7;
-    margin: 15px 50px;
+    margin: 15px 30px;
   }
 
   blockquote {
     border-left: 5px solid #e0e6ed;
     line-height: 1.7;
-    margin: 15px 50px 15px 75px;
-    padding: 10px 10px 10px 15px;
+    margin: 15px 40px 15px 55px;
+    padding: 5px 5px 5px 10px;
 
     p {
       margin: 0;
