@@ -10,7 +10,7 @@ module.exports = {
   showShareButtons: true,
   postsPerPage: 1, // Required
   social: {
-    magentou: 'https://u.magento.com/certificіation/directory/dev/838286/',
+    magentou: 'https://u.magento.com/certification/directory/dev/838286/',
     linkedin: 'https://www.linkedin.com/in/max-uroda/',
     email: 'mailto:contact@maxuroda.pro',
     skype: 'https://join.skype.com/invite/obgKpBOEJZed',
