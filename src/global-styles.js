@@ -4,8 +4,6 @@ import styledNormalize from 'styled-normalize';
 injectGlobal`
   ${styledNormalize}
   
-  @import url("https://fonts.googleapis.com/css?family=Roboto:400,700");
-  
   *,
   *:before,
   *:after {

@@ -2,12 +2,13 @@ import styled from 'styled-components';
 
 const SocialLink = styled.a`
   border: 1px solid #bfc8d2;
-  border-radius: 15px;
+  border-radius: 10px;
   color: #3e465b;
   display: inline-block;
   margin: 5px;
   padding: 5px 10px;
   text-decoration: none;
+  width: 140px;
 
   svg {
     display: inline-block;

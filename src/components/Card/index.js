@@ -12,6 +12,24 @@ const Card = styled.div`
     border-right: none;
     padding: 75px 15px;
   }
+  
+  p {
+    text-align: justify;
+    margin: 10px auto 0;
+    max-width: 650px;
+    padding: 0 35px 0;
+  }
+  
+  a {
+     font-weight: bolder;
+  }
+  
+  article {
+    text-align: justify;
+    p {
+      padding: 0 5px 0;
+    }
+  }
 `;
 
 export default Card;

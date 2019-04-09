@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 const ShareButton = styled.a`
   border: 1px solid #bfc8d2;
-  border-radius: 15px;
+  border-radius: 10px;
   display: inline-block;
   margin: 5px;
   padding: 5px 15px;
