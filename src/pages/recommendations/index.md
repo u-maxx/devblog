@@ -1,5 +1,5 @@
 ---
-title: Recommendations from LinkedIn
+title: Recommendations from my clients and former coworkers
 date: "2019-04-08"
 featuredImage: 'linkedin_logo.png'
 ---
