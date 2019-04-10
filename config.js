@@ -12,13 +12,17 @@ module.exports = {
   social: {
     magentou: 'https://u.magento.com/certification/directory/dev/838286/',
     linkedin: 'https://www.linkedin.com/in/max-uroda/',
+    cv: 'https://drive.google.com/file/d/10feizmxpyFIbUNGy1L4kRV28H44urIkN/view?usp=sharing',
     email: 'mailto:contact@maxuroda.pro',
     skype: 'https://join.skype.com/invite/obgKpBOEJZed',
     calendy: "https://calendly.com/max-uroda",
     commercehero: 'https://commercehero.io/u_maxx',
+    stackoverflowstory: 'https://stackoverflow.com/story/max-uroda',
+    stackoverflowcv: 'https://stackoverflow.com/cv/max-uroda',
+    stackexchange: 'https://stackexchange.com/users/2047361/max-uroda?tab=accounts',
+    twitter: 'https://twitter.com/u_maxx',
     github: 'https://github.com/u-maxx',
     dockerhub: 'https://hub.docker.com/u/umaxx',
-    twitter: 'https://twitter.com/u_maxx',
     pagespeed: "https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fmaxuroda.pro%2F",
     lighthouse: "https://www.webpagetest.org/lighthouse?url=https://maxuroda.pro"
   },

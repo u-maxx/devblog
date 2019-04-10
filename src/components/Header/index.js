@@ -24,13 +24,17 @@ function Header({ config }) {
           <Social
               magentou={social.magentou}
               linkedin={social.linkedin}
+              cv={social.cv}
               email={social.email}
               skype={social.skype}
               calendy={social.calendy}
               commercehero={social.commercehero}
+              stackoverflowstory={social.stackoverflowstory}
+              stackoverflowcv={social.stackoverflowcv}
+              stackexchange={social.stackexchange}
+              twitter={social.twitter}
               github={social.github}
               dockerhub={social.dockerhub}
-              twitter={social.twitter}
               pagespeed={social.pagespeed}
               lighthouse={social.lighthouse}
           />
