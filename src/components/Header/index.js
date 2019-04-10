@@ -32,6 +32,7 @@ function Header({ config }) {
               dockerhub={social.dockerhub}
               twitter={social.twitter}
               pagespeed={social.pagespeed}
+              lighthouse={social.lighthouse}
           />
           }
         <P>{detailed_description}</P>
