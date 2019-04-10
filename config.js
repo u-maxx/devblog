@@ -22,5 +22,5 @@ module.exports = {
     pagespeed: "https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fmaxuroda.pro%2F"
   },
   pathPrefix: '/devblog',
-  siteUrl: 'http://maxuroda.pro',
+  siteUrl: 'https://maxuroda.pro',
 };
