@@ -74,7 +74,7 @@ I had a pleasure to work with numerous highly qualified specialists and wonderfu
 >I worked with Maxim on a large Magento 1 EE project, he was one of the smartest and most ambitious developers to work with, he implemented customizations the way to meet customer requirements and expectations, asked the right questions, played significant role in code review process. Since that time (2012-2013) I'm sure Maxim significantly grown his skills to become Senior Developer with focus on performance of the large e-commerce stores. It was a pleasure to mentor him during his early steps of Magento Developer career. Good luck in your future endeavours!
 
 ###[Sergii Lysenko](https://www.linkedin.com/in/sergii-lysenko-873a8894/) (March 28, 2019)
-##### System Programming Department – Khmelnitskiy National University
+##### Doctor of Philosophy (PhD), Information technologies at System Programming Department – Khmelnitskiy National University
 > I have known Maxim for five years as his scientific adviser and mentor.
   During this time Maxim Uroda, has showed himself as a promising young IT specialist and researcher. His major specialization was Computer Engineering and Computer Science, and Maxim was allowed by our faculty to write his projects and master’s degree thesis in the field of “Evaluating the effectiveness and optimizing the communication capabilities of the websites”.
   As his mentor I have had an opportunity to observe the student's participation and overall progress. I would rate the student's overall performance as excellent, because he has got only excellent marks and has achieved marked results in different academic and student fields.
