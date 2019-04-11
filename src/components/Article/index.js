@@ -36,7 +36,7 @@ const Article = styled.article`
     font-size: 17px;
     font-weight: 700;
     line-height: 1.5;
-    margin: 25px 50px 15px;
+    margin: 25px 50px 10px;
   }
 
   h4 {
@@ -52,6 +52,11 @@ const Article = styled.article`
     font-weight: 700;
     line-height: 1.5;
     margin: 25px 50px 15px;
+  }
+  
+  h5 {
+    margin-top: 5px;
+    margin-bottom: 10px;
   }
 
   p {
