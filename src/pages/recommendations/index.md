@@ -6,6 +6,10 @@ featuredImage: 'linkedin_logo.png'
 
 I had a pleasure to work with numerous highly qualified specialists and wonderful people during my career. Here you can find the short versions of the recommendations from my clients and former coworkers or check out the full version on my [LinkedIn page](https://www.linkedin.com/in/max-uroda/). 
 
+###[Anatolii Lehkyi](https://www.linkedin.com/in/anatolii-lehkyi/) (April 12, 2019)
+##### Senior Magento1/2 Developer / eProcurement Integrator / Consultant / Individual Contractor 
+>I worked with Max in the same team at PunchoutCatalogs Inc. on few projects. He appeared as a very skilled Magento & PHP software engineer. Max is talented in finding solutions for non-standard issues. Can admit his super ability in fast troubleshooting environment and performance related issues.
+
 ###[Eric Zillmer](https://www.linkedin.com/in/ezillmer/) (April 10, 2019)
 ##### eBusiness Platform Manager at Steelcase Inc. 
 >If you're looking for someone who has a solid understanding of Magento, how it can be extended and improved, and how it can be used to satisfy extremely complex business needs, you've found him! Max was instrumental in providing us such things, as well as considerable wisdom and insights on some very knotty problems we were faced with. And his solutions proved to be robust, reliable and comprehensive. A pleasure to work with.
