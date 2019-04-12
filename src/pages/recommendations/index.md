@@ -6,6 +6,10 @@ featuredImage: 'linkedin_logo.png'
 
 I had a pleasure to work with numerous highly qualified specialists and wonderful people during my career. Here you can find the short versions of the recommendations from my clients and former coworkers or check out the full version on my [LinkedIn page](https://www.linkedin.com/in/max-uroda/).
 
+###[Andrey Zhuk](https://www.linkedin.com/in/andrey-zhuk-b5b91258/) (April 12, 2019)
+##### Python Developer at zhukandrey.com 
+>When we worked together on different projects at Atwix, Max provided tremendous help using his top-level programming, architecture and problem-solving skills. Also, Max is a great and friendly guy and it is a pleasure to work with. 
+
 ###[Dave Niemchick](https://www.linkedin.com/in/dave-niemchick-3a5ba/) (April 12, 2019)
 ##### DevOps Engineer at Steelcase, Inc 
 >Max worked on our very complex Magento e-commerce application for several years, and has always delivered excellent work and his understanding of the inner workings of Magento and PHP is extremely high. 
