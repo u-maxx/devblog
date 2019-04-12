@@ -1,10 +1,15 @@
 ---
 title: Recommendations from my clients and former coworkers
-date: "2019-04-10"
+date: "2019-04-12"
 featuredImage: 'linkedin_logo.png'
 ---
 
-I had a pleasure to work with numerous highly qualified specialists and wonderful people during my career. Here you can find the short versions of the recommendations from my clients and former coworkers or check out the full version on my [LinkedIn page](https://www.linkedin.com/in/max-uroda/). 
+I had a pleasure to work with numerous highly qualified specialists and wonderful people during my career. Here you can find the short versions of the recommendations from my clients and former coworkers or check out the full version on my [LinkedIn page](https://www.linkedin.com/in/max-uroda/).
+
+###[Dave Niemchick](https://www.linkedin.com/in/dave-niemchick-3a5ba/) (April 12, 2019)
+##### DevOps Engineer at Steelcase, Inc 
+>Max worked on our very complex Magento e-commerce application for several years, and has always delivered excellent work and his understanding of the inner workings of Magento and PHP is extremely high. 
+>He's also been very proactive in suggesting ways we could improve our system, many of which we implemented and greatly improved our performance and stability. I would consider him an excellent candidate for a technical architecture role, in addition to his solid day-to-day programming skills.  
 
 ###[Anatolii Lehkyi](https://www.linkedin.com/in/anatolii-lehkyi/) (April 12, 2019)
 ##### Senior Magento1/2 Developer / eProcurement Integrator / Consultant / Individual Contractor 
