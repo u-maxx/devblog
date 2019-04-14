@@ -1,10 +1,14 @@
 ---
 title: Recommendations from my clients and former coworkers
-date: "2019-04-12"
+date: "2019-04-14"
 featuredImage: 'linkedin_logo.png'
 ---
 
 I had a pleasure to work with numerous highly qualified specialists and wonderful people during my career. Here you can find the short versions of the recommendations from my clients and former coworkers or check out the full version on my [LinkedIn page](https://www.linkedin.com/in/max-uroda/).
+
+###[Roman Glushko](https://www.linkedin.com/in/glushko-roman/) (April 14, 2019)
+##### Magento Software Developer | Magento 2 Certified Solution Specialist | Atwix MageNews Editor
+>I worked with Max at Atwix. He was a great mentor with a passion for new and cutting edge technologies and he is always ready for helping/suggesting and super friendly. Max is diligent with great problem-solving skill which helps him dealing with challenges. Glad that I have met him 👍 
 
 ###[Andrey Zhuk](https://www.linkedin.com/in/andrey-zhuk-b5b91258/) (April 12, 2019)
 ##### Python Developer at zhukandrey.com 
