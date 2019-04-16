@@ -1,10 +1,14 @@
 ---
 title: Recommendations from my clients and former coworkers
-date: "2019-04-14"
+date: "2019-04-15"
 featuredImage: 'linkedin_logo.png'
 ---
 
 I had a pleasure to work with numerous highly qualified specialists and wonderful people during my career. Here you can find the short versions of the recommendations from my clients and former coworkers or check out the full version on my [LinkedIn page](https://www.linkedin.com/in/max-uroda/).
+
+###[Michael Tkach](https://www.linkedin.com/in/michael-tkach-b4012b6a/) (April 15, 2019)
+##### Software Engineer at Facebook
+>During our time at university, Max and I worked together on a few study projects and participated as a team in ACM-ICPC programming contests. I can recommend Max as a great team member, who is willing to gain and share knowledge across the people he is working with. Also, by having great problem-solving skills, Max showed himself as a strong developer, who can not only organise the work processes but also meticulously find an efficient solution for every task he has.
 
 ###[Roman Glushko](https://www.linkedin.com/in/glushko-roman/) (April 14, 2019)
 ##### Magento Software Developer | Magento 2 Certified Solution Specialist | Atwix MageNews Editor
