@@ -15,10 +15,10 @@ function Header({ config }) {
   return (
     <Container>
       <Wrapper>
+        <H1><Link to="/">{author}</Link></H1>
         {userConfig.showHeaderImages && (
           <HeaderImages/>
         )}
-        <H1><Link to="/">{author}</Link></H1>
         <P>{description}</P>
           {social &&
           <Social
