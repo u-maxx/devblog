@@ -37,6 +37,7 @@ function Header({ config }) {
               dockerhub={social.dockerhub}
               pagespeed={social.pagespeed}
               lighthouse={social.lighthouse}
+              mage2click={social.mage2click}
           />
           }
         <P>{detailed_description}</P>
