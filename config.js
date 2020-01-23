@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Max Uroda Certified Magento Developer', // Required
   author: 'Max Uroda', // Required
-  description: "I am a Certified Magento Developer (M1CD+ / M2CAD) with over 7 years of experience in Web Development, Software Engineer, Independent Contractor and member of Mage2.click - Magento Users Group from Khmelnytskyi, Ukraine. I have a Master's degree in Computer Science. Currently working at Mediotype.",
+  description: "I am a Certified Magento Developer (M1CD+ / M2CAD / M2CFD) with over 8 years of experience in Web Development, Software Engineer, Independent Contractor and member of Mage2.click - Magento Users Group from Khmelnytskyi, Ukraine. I have a Master's degree in Computer Science. Currently working at Mediotype.",
   detailed_description: 'I am implementing and supporting highly loaded B2C and B2B e-commerce projects based on Magento and Magento 2, leading a team of developers, providing performance optimizations and the right solution for any type of issues. I have a deep understanding and experience working with the following technology stack: PHP, MySQL, JavaScript, jQuery, AJAX, REST, HTML, CSS, Git, Linux, Nginx, Apache, Redis, Varnish, Elasticsearch, AWS, New Relic, Docker. Besides that, I always keep learning something new like GatsbyJs and PWA which I have used to create this website.',
   primaryColor: '#f46f25', // Required
   showHeaderImages: true,
