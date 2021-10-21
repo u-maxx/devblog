@@ -1,10 +1,32 @@
 ---
 title: Recommendations from my clients and former coworkers
-date: "2019-04-15"
+date: "2021-10-21"
 featuredImage: 'linkedin_logo.png'
 ---
 
 I had a pleasure to work with numerous highly qualified specialists and wonderful people during my career. Here you can find the short versions of the recommendations from my clients and former coworkers or check out the full version on my [LinkedIn page](https://www.linkedin.com/in/max-uroda/).
+
+###[Luka Rajčević](https://www.linkedin.com/in/lurajcevi/) (October 18, 2021)
+##### Web Developer at Mediotype
+>Max is highly skilled and passionate developer. His aptitude to clean and efficient code architecture makes him a valued team member and an asset for any company. He is very professional in work relationship, and working alongside him was enjoyable. For these reasons, and many other ones, high recommendation is justified.
+
+###[Daniel Sousa](https://www.linkedin.com/in/danielosousa/) (October 12, 2021)
+##### Magento Developer at On Tap
+>I could recommend Max as a person who has excellent skills in Magento (Adobe Commerce). Proactive, dynamic, and totally organized. He never refuses you when you ask him for help. Definitely worth recommending.
+
+###[Rick Buczynski](https://www.linkedin.com/in/rickbuczynski/) (October 3, 2021)
+##### VP, Solution Architecture at Blue Acorn iCi
+>Max is dependable, highly competent, and a good friend to have at your side in the workplace. In the Adobe Commerce ecosystem, he's truly a veteran and one of the most senior developers I've met. He's the kind of developer that you can send in to complete a difficult task, and he'll ask very few questions and need no hand-holding. At the same time, I've seen him work in a team setting and he's very collaborative and supportive. 
+>
+>There are two things that especially stand out to me about him–(1) there seems to be almost nothing he doesn't know or understand in this industry (business or technical), and (2) he's genuine; I always get the sense that I'm dealing with the same Max at work as I would at home.
+
+###[Joshua Romero](https://www.linkedin.com/in/joshua-romero-82927a127/) (September 13, 2021)
+##### Frontend Technical Lead at Rightpoint
+>Max is an absolute gem of a developer. He has a lot of domain knowledge around the Magento platform and worked on various projects covering all facets of the framework. Anyone looking to build out their team or just looking for guidance on implementation would do themselves a favor by working with Max.
+
+###[Dmytro Karpovych](https://www.linkedin.com/in/zayec77/) (September 7, 2021)
+##### Lead Software Engineer at DataRobot
+>During our work with Max, he showed like a high-skilled engineer and good teammate. He helped me as a mentor and learned me a lot of things. He knows how to get things done in good quality.
 
 ###[Michael Tkach](https://www.linkedin.com/in/michael-tkach-b4012b6a/) (April 15, 2019)
 ##### Software Engineer at Facebook
