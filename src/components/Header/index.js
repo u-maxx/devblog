@@ -26,17 +26,13 @@ function Header({ config }) {
               linkedin={social.linkedin}
               cv={social.cv}
               email={social.email}
-              skype={social.skype}
               calendy={social.calendy}
               commercehero={social.commercehero}
-              stackoverflowstory={social.stackoverflowstory}
-              stackoverflowcv={social.stackoverflowcv}
               stackexchange={social.stackexchange}
               twitter={social.twitter}
               github={social.github}
               dockerhub={social.dockerhub}
               pagespeed={social.pagespeed}
-              lighthouse={social.lighthouse}
               mage2click={social.mage2click}
           />
           }
