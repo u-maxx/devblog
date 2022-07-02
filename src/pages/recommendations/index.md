@@ -1,10 +1,56 @@
 ---
 title: Recommendations from my clients and former coworkers
-date: "2021-10-21"
+date: "2022-02-07"
 featuredImage: 'linkedin_logo.png'
 ---
 
 I had a pleasure to work with numerous highly qualified specialists and wonderful people during my career. Here you can find the short versions of the recommendations from my clients and former coworkers or check out the full version on my [LinkedIn page](https://www.linkedin.com/in/max-uroda/).
+
+###[Joseph Maxwell](https://www.linkedin.com/in/maxwelljoseph/) (June 28, 2022)
+##### Founder + CEO of SwiftOtter, Inc. | Developer | Magento Certification Expert
+>Max is a hard worker and was a great asset for us at SwiftOtter. He was professional and a wonderful person to work with.
+
+###[André Santos ](https://www.linkedin.com/in/flpandre/) (June 28, 2022)
+##### Senior Software Engineer, 7x Adobe Commerce/Magento Certified, Adobe Commerce Architect at Classy Llama
+>Max is a great professional, very strong technical skills. Very responsible, very communicative. I had the opportunity to work with him in some projects and he is the kind a person that seeks the problem resolution no matter what.
+
+###[Isaac Phillips](https://www.linkedin.com/in/isaac-phillips-18929317b/) (June 28, 2022)
+##### Magento Developer at SwiftOtter Inc.
+>During the time I worked with Max, he was always incredibly helpful and willing to share his extensive knowledge. His experience with Magento and Warden were a huge asset to the team. Max is great to work with!
+
+###[Luke Phillips](https://www.linkedin.com/in/luke-phillips-84586819a/) (June 28, 2022)
+##### Quality Assurance Analyst II at SwiftOtter, Inc.
+>Max is a wonderful person to work with! He is kind, helpful, and hardworking. I will miss the privilege of having him on our team!
+
+###[Christopher Maxwell](https://www.linkedin.com/in/christopher-maxwell-a59603240/) (June 27, 2022)
+##### Project Manager, Quality Assurance Analyst at SwiftOtter, Inc.
+>I worked extensively with Max for about a year at SwiftOtter and came to appreciate him as a dependable, knowledgeable developer who works well in a team setting and has a solid understanding of Magento.
+>In my role as a Project Manager I came to GREATLY appreciate his attention to detail and the clear documentation he would leave on tickets, not only detailing what he had accomplished but also the current status of the task and what further remained to be completed.
+>During the year we were able to work together his life was turned upside down as a result of war and I was inspired by his resilience and amazing ability to properly balance work-life through it all.
+>I hope our paths cross again and we can work together in the future.
+
+###[Jignesh Baldha](https://www.linkedin.com/in/jignesh-baldha/) (June 27, 2022)
+##### Adobe 3X Certified Developer | Senior Magento Developer at SwiftOtter, Inc.
+>I worked with Max on a few projects, and he is a very passionate and helping person, expert in working on multiple projects simultaneously.
+>It was easy to communicate with him. In addition, he has provided help in setting up different projects. He has good knowledge of warden/docker.
+>It's pleased to work together.I worked with Max on a few projects, and he is a very passionate and helping person, expert in working on multiple projects simultaneously. It was easy to communicate with him. In addition, he has provided help in setting up different projects. He has good knowledge of warden/docker. It's pleased to work together.
+
+###[Prince Antil](https://www.linkedin.com/in/prince-antil-4b2914a9/) (June 27, 2022)
+##### Adobe Magento Certified Expert, Senior Magento2 Certified Developer at SwiftOtter, Inc.
+>Max is a great team player. He know how to work simultaneously on different projects at the same time with focus and responsibilities. He always keen to share new things with all his team members. Problem solver and helping team member. Glad that I got a chance to work with him.Max is a great team player. He know how to work simultaneously on different projects at the same time with focus and responsibilities. He always keen to share new things with all his team members. Problem solver and helping team member. Glad that I got a chance to work with him.
+
+###[Łukasz Bajsarowicz](https://www.linkedin.com/in/lbajsarowicz/) (June 26, 2022)
+##### Magento 2 Solutions Architect, SwiftOtter Inc.
+>My journey with Max started in Mediotype. From the very beginning, I considered Max as a reliable person willing to share his knowledge and ready solutions. Throughout our experience in Mediotype, BlueAcorn, Infosys and SwiftOtter I've seen Max in different difficult situations - He pursued to the solution, keeping in mind time limitations and other infrastructure/architectural constraints.
+>If you are looking for a great player, Sherlock Holmes in the world of Magento - Max would be one of the best people to recommend!
+
+###[Janusz Janczy](https://www.linkedin.com/in/janusz-janczy-92b6a48/) (June 26, 2022)
+##### Experienced Magento frontend developer. Interested in other eCommerce platforms, Headless eCommerce, JAMStack, etc.
+>I had a chance to collaborate with Max on Magento 2 projects. Max is a very good developer with good communication skills. He is also friendly and helpful.
+
+###[Claire Mohr](https://www.linkedin.com/in/clairemohr/) (October 21, 2021)
+##### Experienced Professional (former Quality Assurance Engineer, Business Analyst, Project Manager  - PunchOut Catalogs )
+>Max is highly skilled and passionate developer. His aptitude to clean and efficient code architecture makes him a valued team member and an asset for any company. He is very professional in work relationship, and working alongside him was enjoyable. For these reasons, and many other ones, high recommendation is justified.
 
 ###[Luka Rajčević](https://www.linkedin.com/in/lurajcevi/) (October 18, 2021)
 ##### Web Developer at Mediotype
