@@ -1,6 +1,6 @@
 ---
 title: Recommendations from my clients and former coworkers
-date: "2022-02-07"
+date: "2022-07-02"
 featuredImage: 'linkedin_logo.png'
 ---
 
